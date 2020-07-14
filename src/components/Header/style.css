@@ -29,3 +29,11 @@ a {
   color: black;
   margin-bottom: 0;
 }
+
+.navbar-brand {
+  margin-left: 0;
+  padding: 20px;
+  margin-bottom: 0;
+  color: black;
+  width: 20px;
+}

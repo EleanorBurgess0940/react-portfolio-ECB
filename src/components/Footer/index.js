@@ -1,14 +1,14 @@
 import React from "react";
 import "./style.css";
 
-function Jumbotron() {
+function Footer() {
   return (
-    <div className="jumbotron jumbotron-fluid">
-      <div className="container">
-        <h1 className="display-4">Employee Directory</h1>
-      </div>
+    <div class="contact">
+      <h5> Contact Information</h5>
+      <h6>Email:Eleanor.C.Burgess@gmail.com</h6>
+      <h6>Phone:267-221-0940</h6>
     </div>
   );
 }
 
-export default Jumbotron;
+export default Footer;
