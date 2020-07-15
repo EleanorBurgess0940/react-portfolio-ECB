@@ -2,6 +2,7 @@ import React from "react";
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Column";
+import Project from "../components/Project";
 
 function Portfolio() {
   return (
@@ -9,28 +10,15 @@ function Portfolio() {
       <Container style={{ marginTop: 20 }}>
         <Row>
           <Col size="md-12">
-            <h1> About Me Contact Me</h1>
+            <h1> Portfolio</h1>
           </Col>
         </Row>
         <Row>
-          <Col size="md-12">
-            <p>
-              I am currently residing in Manayunk, Pennsylvania. I own a Jack
-              Russell mix named Leela. I have a degree from Johnson and Wales
-              University in Culinary Arts and Food Service Management. I am
-              currently attending Penn's LPS Coding Boot Camp and will graduate
-              in August. Prior to starting the UPenn bootcamp I used to work as
-              the Assistant Operational Manager at La Prima catering.
-            </p>
-            <p>
-              One of the highlights from working at La Prima Catering was
-              feeding the Philadelphia 76ers and the Philadelphia Flyers. I
-              decided to take this program was for a change of pace. When I am
-              not programming I enjoy baking/cooking and walking my dog.I am an
-              avid supporter of the Philadelphia Union soccer team. I also enjoy
-              traveling and most recently went to India for the Holiday season
-              two years ago.
-            </p>
+          <Col size="md-5">
+            <Project></Project>
+          </Col>
+          <Col size="md-5">
+            <Project></Project>
           </Col>
         </Row>
       </Container>

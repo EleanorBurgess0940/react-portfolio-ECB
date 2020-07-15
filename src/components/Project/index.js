@@ -1,9 +1,9 @@
 import React from "react";
 import "./style.css";
 
-function Jumbotron() {
+function Project() {
   return (
-    <div className="jumbotron jumbotron-fluid">
+    <div className="card">
       <div className="container">
         <h1 className="display-4">Employee Directory</h1>
       </div>
@@ -11,4 +11,4 @@ function Jumbotron() {
   );
 }
 
-export default Jumbotron;
+export default Project;

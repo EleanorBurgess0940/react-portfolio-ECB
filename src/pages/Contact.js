@@ -3,33 +3,30 @@ import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Column";
 
-function About() {
+function Contact() {
   return (
     <div>
       <Container style={{ marginTop: 20 }}>
         <Row>
           <Col size="md-12">
-            <h1> About Me</h1>
+            <h1> Ways of Contacting</h1>
           </Col>
         </Row>
         <Row>
           <Col size="md-12">
             <p>
-              I am currently residing in Manayunk, Pennsylvania. I own a Jack
-              Russell mix named Leela. I have a degree from Johnson and Wales
-              University in Culinary Arts and Food Service Management. I am
-              currently attending Penn's LPS Coding Boot Camp and will graduate
-              in August. Prior to starting the UPenn bootcamp I used to work as
-              the Assistant Operational Manager at La Prima catering.
+              Link to my resume:
+              https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:2eb6505e-1b61-479d-a566-ed404a65e24e
             </p>
+            <p>Link to my Github: https://github.com/EleanorBurgess0940</p>
             <p>
-              One of the highlights from working at La Prima Catering was
-              feeding the Philadelphia 76ers and the Philadelphia Flyers. I
-              decided to take this program was for a change of pace. When I am
-              not programming I enjoy baking/cooking and walking my dog.I am an
-              avid supporter of the Philadelphia Union soccer team. I also enjoy
-              traveling and most recently went to India for the Holiday season
-              two years ago.
+              Link to my LinkedIn:
+              <a
+                href="https://www.linkedin.com/in/eleanor-burgess-14a08b1a3/"
+                target="_black"
+              >
+                <i class="fa fa-linked-in"></i>
+              </a>
             </p>
           </Col>
         </Row>
@@ -38,4 +35,4 @@ function About() {
   );
 }
 
-export default About;
+export default Contact;

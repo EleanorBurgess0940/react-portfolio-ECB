@@ -4,7 +4,7 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
 import Header from "./components/Header";
-import Project from "./components/Project";
+
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
 
@@ -20,7 +20,6 @@ class App extends Component {
             <Route exact path="/contact" component={Contact} />
             <Route exact path="/portfolio" component={Portfolio} />
           </Wrapper>
-          <Project />
           <Footer />
         </div>
       </Router>
