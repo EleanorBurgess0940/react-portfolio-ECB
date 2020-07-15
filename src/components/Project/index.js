@@ -1,11 +1,19 @@
 import React from "react";
 import "./style.css";
 
-function Project() {
+function Project(props) {
   return (
     <div className="card">
-      <div className="container">
-        <h1 className="display-4">Employee Directory</h1>
+      <div className="img-container">
+        <img src={props.image} alt={props.title} />
+      </div>
+      <div>
+        <ul>
+          <li>{props.title}</li>
+          <li>{props.about}</li>
+          <li>{props.deployed}</li>
+          <li>{props.github}</li>
+        </ul>
       </div>
     </div>
   );
