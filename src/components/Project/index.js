@@ -7,7 +7,7 @@ function Project(props) {
       <div className="img-container">
         <img src={props.image} alt={props.title} />
       </div>
-      <div>
+      <div className="content">
         <ul>
           <li>{props.title}</li>
           <li>{props.about}</li>

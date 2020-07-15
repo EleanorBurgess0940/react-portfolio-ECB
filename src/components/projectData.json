@@ -5,7 +5,7 @@
     "deployed": "https://bpeart90.github.io/space.io/",
     "github": "https://github.com/Bpeart90/space.io",
     "about": "A application used to educate the user on space with images, searches and fun facts using javascript, css, html and API calls",
-    "image": "../imgs/space.PNG"
+    "image": "assets/imgs/space.PNG"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "deployed": "https://helping-hands-project-2.herokuapp.com/",
     "github": "https://github.com/Bpeart90/project2",
     "about": "A website to connect volunteers with potential opportunities using Node.JS, handlebars, Express.JS, and MySQL.",
-    "image": "../imgs/helpinghands.PNG"
+    "image": "assets/imgs/helpinghands.PNG"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "deployed": "https://let-me-take-your-order.herokuapp.com/",
     "github": "https://github.com/EleanorBurgess0940/eat_da_burger_ECB",
     "about": "A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!)",
-    "image": "../imgs/burger.PNG"
+    "image": "assets/imgs/burger.PNG"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "deployed": "https://fitness-tracker-ecb.herokuapp.com/",
     "github": "https://github.com/EleanorBurgess0940/fitness-tracker-ECB",
     "about": "For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.",
-    "image": "../imgs/fitness-tracker.gif"
+    "image": "assets/imgs/fitness-tracker.gif"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "deployed": "https://eleanorburgess0940.github.io/Weather-Dashboard-ECB/",
     "github": "https://github.com/EleanorBurgess0940/Weather-Dashboard-ECB",
     "about": "Build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.",
-    "image": "../imgs/weather.PNG"
+    "image": "assets/imgs/weather.PNG"
   },
   {
     "id": 6,
@@ -45,6 +45,6 @@
     "deployed": "https://let-me-budget-that-ecb.herokuapp.com/",
     "github": "https://github.com/EleanorBurgess0940/budget_tracker_ECB",
     "about": "For this assignment, you'll add functionality to our existing Budget Tracker application to allow for offline access and functionality.",
-    "image": "../imgs/Screenshot.PNG"
+    "image": "assets/imgs/Screenshot.PNG"
   }
 ]
