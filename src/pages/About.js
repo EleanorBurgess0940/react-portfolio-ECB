@@ -13,7 +13,13 @@ function About() {
           </Col>
         </Row>
         <Row>
-          <Col size="md-12">
+          <img
+            style={{ height: 300 }}
+            className="profilePicture"
+            src="assets/imgs/Elly-Burgess.jpg"
+            alt="profile"
+          ></img>
+          <Col size="md-8">
             <p>
               I am currently residing in Manayunk, Pennsylvania. I own a Jack
               Russell mix named Leela. I have a degree from Johnson and Wales

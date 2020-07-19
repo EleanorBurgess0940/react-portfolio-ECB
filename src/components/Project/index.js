@@ -8,12 +8,27 @@ function Project(props) {
         <img src={props.image} alt={props.title} />
       </div>
       <div className="content">
-        <ul>
-          <li>{props.title}</li>
-          <li>{props.about}</li>
-          <li>{props.deployed}</li>
-          <li>{props.github}</li>
-        </ul>
+        <h5>{props.title}</h5>
+        <p>{props.about}</p>
+        <br></br>
+        <a
+          className="btn github"
+          id="github"
+          href={props.github}
+          target="_blank"
+        >
+          {" "}
+          See the Code Here!
+        </a>
+        <a
+          className="btn deployed"
+          id="deployed"
+          href={props.deployed}
+          target="_blank"
+        >
+          {" "}
+          Deployed Link
+        </a>
       </div>
     </div>
   );
