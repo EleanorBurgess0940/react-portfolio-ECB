@@ -28,7 +28,7 @@ class Portfolio extends Component {
         <div>
           <Container>
             <br></br>
-            <Row>
+            <Row className="centered">
               <Col size="md-5">
                 <h1> Portfolio</h1>
                 <hr></hr>

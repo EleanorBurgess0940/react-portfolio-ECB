@@ -16,6 +16,7 @@ function Project(props) {
           id="github"
           href={props.github}
           target="_blank"
+          rel="noopener noreferrer"
         >
           {" "}
           See the Code Here!
@@ -25,6 +26,7 @@ function Project(props) {
           id="deployed"
           href={props.deployed}
           target="_blank"
+          rel="noopener noreferrer"
         >
           {" "}
           Deployed Link
