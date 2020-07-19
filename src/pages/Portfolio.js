@@ -35,7 +35,7 @@ class Portfolio extends Component {
               <Col size="md-5">
                 <h1> Portfolio</h1>
                 <hr></hr>
-                <h3> Some Examples Of my work</h3>
+                <h3> Some examples of my work</h3>
               </Col>
             </Row>
             <Row>{projectList}</Row>

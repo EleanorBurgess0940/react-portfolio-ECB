@@ -36,7 +36,7 @@
     "title": "Weather Dashboard",
     "deployed": "https://eleanorburgess0940.github.io/Weather-Dashboard-ECB/",
     "github": "https://github.com/EleanorBurgess0940/Weather-Dashboard-ECB",
-    "about": "Build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.",
+    "about": "A weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.",
     "image": "assets/imgs/weather.PNG"
   },
   {
@@ -44,7 +44,7 @@
     "title": "Budget Tracker",
     "deployed": "https://let-me-budget-that-ecb.herokuapp.com/",
     "github": "https://github.com/EleanorBurgess0940/budget_tracker_ECB",
-    "about": "For this assignment, you'll add functionality to our existing Budget Tracker application to allow for offline access and functionality.",
+    "about": "A budget tracker application that allows offline access and functionality.",
     "image": "assets/imgs/Screenshot.PNG"
   }
 ]
