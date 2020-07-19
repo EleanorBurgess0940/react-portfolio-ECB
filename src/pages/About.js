@@ -8,19 +8,21 @@ function About() {
     <div>
       <Container>
         <br></br>
-        <Row>
+        <Row className="centered">
           <Col size="md-12">
             <h1> About Me</h1>
             <hr></hr>
           </Col>
         </Row>
         <Row>
-          <img
-            style={{ height: 300 }}
-            className="profilePicture"
-            src="assets/imgs/Elly-Burgess.jpg"
-            alt="profile"
-          ></img>
+          <Col size="md-4">
+            <img
+              style={{ height: 300 }}
+              className="profilePicture"
+              src="assets/imgs/Elly-Burgess.jpg"
+              alt="profile"
+            ></img>
+          </Col>
           <Col size="md-8">
             <p>
               I am currently residing in Manayunk, Pennsylvania. I own a Jack
