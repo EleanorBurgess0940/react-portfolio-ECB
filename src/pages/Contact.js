@@ -3,6 +3,9 @@ import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Column";
 
+//This function will create the contact me page
+//I hope to get a form on this page
+
 function Contact() {
   return (
     <div>

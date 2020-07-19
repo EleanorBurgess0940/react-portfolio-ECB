@@ -1,6 +1,6 @@
 # react_portfolio_ECB
 
-# Unit 18 PWA Homework: Offline Budget Tracker
+# React Portfolio
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).This is my working portfolio and it will expand as I do more work.
 

@@ -1,6 +1,8 @@
 import React from "react";
 import "./style.css";
 
+//This is the start of the footer
+
 function Footer() {
   return (
     <div class="contact">

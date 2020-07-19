@@ -7,6 +7,9 @@ import Project from "../components/Project";
 
 import projectData from "../components/projectData.json";
 
+//this will take the projectData.json file and fill in project cards with the correct information
+//i hope to add a little more to each project card like technologies used and stuff like that
+
 class Portfolio extends Component {
   state = {
     projects: projectData,

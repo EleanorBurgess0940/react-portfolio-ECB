@@ -2,6 +2,10 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./style.css";
 
+//Start of Navigational Bar
+//The main content of my name is going to be the left in the header
+//The sidebar content of the navigational links is going to be right side of the header
+
 function Header() {
   return (
     <nav>
