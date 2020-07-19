@@ -6,10 +6,12 @@ import Col from "../components/Column";
 function About() {
   return (
     <div>
-      <Container style={{ marginTop: 20 }}>
+      <Container>
+        <br></br>
         <Row>
           <Col size="md-12">
             <h1> About Me</h1>
+            <hr></hr>
           </Col>
         </Row>
         <Row>

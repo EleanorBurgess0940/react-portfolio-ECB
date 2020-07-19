@@ -26,10 +26,12 @@ class Portfolio extends Component {
     return (
       <Wrapper>
         <div>
-          <Container style={{ marginTop: 20 }}>
+          <Container>
+            <br></br>
             <Row>
               <Col size="md-5">
                 <h1> Portfolio</h1>
+                <hr></hr>
                 <h3> Some Examples Of my work</h3>
               </Col>
             </Row>

@@ -16,7 +16,7 @@
   background: #6caddc;
 }
 .card > .img-container > img {
-  width: 60%;
+  width: 100%;
 }
 
 .card > .content {
@@ -33,7 +33,7 @@
   margin-top: 18px;
 }
 
-.card > .github {
+.card > .btn {
   color: lightcoral;
   font-size: 48px;
   position: absolute;

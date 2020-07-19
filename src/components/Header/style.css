@@ -11,7 +11,7 @@ ul {
 }
 /*the header css code below is used to style a border on the bottom to have a dashed black line*/
 .wrapper {
-  border-bottom: 10px dashed black;
+  border-bottom: solid black;
 }
 
 h4 {
