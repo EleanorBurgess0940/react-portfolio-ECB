@@ -33,11 +33,11 @@
   },
   {
     "id": 5,
-    "title": "Weather Dashboard",
-    "deployed": "https://eleanorburgess0940.github.io/Weather-Dashboard-ECB/",
-    "github": "https://github.com/EleanorBurgess0940/Weather-Dashboard-ECB",
-    "about": "A weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.",
-    "image": "assets/imgs/weather.PNG"
+    "title": "Google Search with React",
+    "deployed": "https://google-reading-search.herokuapp.com/",
+    "github": "https://github.com/EleanorBurgess0940/google-book-search-ECB",
+    "about": "A google book api search Engine while using the MERN structure.",
+    "image": "assets/imgs/snapshot.PNG"
   },
   {
     "id": 6,

@@ -5,7 +5,7 @@ import Col from "../components/Column";
 
 //This function will produce the about me page
 // A profile picture and aboutme information
-function About() {
+function Members() {
   return (
     <div>
       <Container>
