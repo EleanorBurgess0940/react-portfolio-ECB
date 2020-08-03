@@ -43,6 +43,11 @@ function About() {
               traveling and most recently went to India for the Holiday season
               two years ago.
             </p>
+            <p>Technical Skills:</p>
+            <p>
+              Languages: HTML 5, CSS3, JavaScript, jQuery, Bootstrap, Firebase,
+              Node.js, MySQL, MongoDB, Express, Handlebars, React
+            </p>
           </Col>
         </Row>
       </Container>
